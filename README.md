@@ -23,8 +23,8 @@ This AI has permission to **modify and delete your files**. It can and will make
 
 Clone the repository and install the dependencies.
 ```
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/MatanelM/FreeAICodeAssistant
+cd FreeAICodeAssistant
 pip install -r requirements.txt
 ```
 ### 2. Configure
